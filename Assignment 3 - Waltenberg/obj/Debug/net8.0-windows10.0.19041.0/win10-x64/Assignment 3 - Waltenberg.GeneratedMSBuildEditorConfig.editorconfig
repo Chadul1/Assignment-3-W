@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment_3___Waltenberg
+build_property.ProjectDir = C:\Users\chade\source\repos\Assignment 3 - Waltenberg\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/BooksList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.BooksList.xaml
+build_metadata.AdditionalFiles.TargetPath = BooksList.xaml
+build_metadata.AdditionalFiles.RelativePath = BooksList.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/MoviesList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.MoviesList.xaml
+build_metadata.AdditionalFiles.TargetPath = MoviesList.xaml
+build_metadata.AdditionalFiles.RelativePath = MoviesList.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/MusicList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.MusicList.xaml
+build_metadata.AdditionalFiles.TargetPath = MusicList.xaml
+build_metadata.AdditionalFiles.RelativePath = MusicList.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/VideoGameList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.VideoGameList.xaml
+build_metadata.AdditionalFiles.TargetPath = VideoGameList.xaml
+build_metadata.AdditionalFiles.RelativePath = VideoGameList.xaml
+
+[C:/Users/chade/source/repos/Assignment 3 - Waltenberg/WikiPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3___Waltenberg.WikiPage.xaml
+build_metadata.AdditionalFiles.TargetPath = WikiPage.xaml
+build_metadata.AdditionalFiles.RelativePath = WikiPage.xaml

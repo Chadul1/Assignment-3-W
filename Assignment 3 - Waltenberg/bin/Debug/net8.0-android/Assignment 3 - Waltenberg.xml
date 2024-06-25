@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assignment 3 - Waltenberg</name>
+    </assembly>
+    <members>
+        <member name="M:Assignment_3___Waltenberg.BooksList.PopulateMusicList">
+            <summary>
+            Creates the list and adds it to the media list.
+            </summary>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.BooksList.Tapped_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            When the image is tapped, it sends to the wikipedia page of said item..
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.MainPage.PopulateList">
+            <summary>
+            Creates the list and adds it to the media list.
+            </summary>
+        </member>
+        <member name="T:Assignment_3___Waltenberg.MediaItem">
+            <summary>
+            The Mediaitem object will be used to link to other pages. 
+            </summary>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.MoviesList.PopulateMusicList">
+            <summary>
+            Creates the list and adds it to the media list.
+            </summary>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.MoviesList.Tapped_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            When the image is tapped, it sends to the wikipedia page of said item..
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.MusicList.PopulateMusicList">
+            <summary>
+            Creates the list and adds it to the media list.
+            </summary>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.MusicList.Tapped_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            When the image is tapped, it sends to the wikipedia page of said item..
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.VideoGameList.PopulateMusicList">
+            <summary>
+            Creates the list and adds it to the media list.
+            </summary>
+        </member>
+        <member name="M:Assignment_3___Waltenberg.VideoGameList.Tapped_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            When the image is tapped, it sends to the wikipedia page of said item..
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>

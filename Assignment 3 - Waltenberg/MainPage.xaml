@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment_3___Waltenberg.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="DarkRed" Padding="24" CornerRadius="3">
+                <Label Text="Some of my favorite things!" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <ListView x:Name="FunItemsListView" HorizontalOptions="CenterAndExpand" ItemTapped="FunItemsListView_ItemTapped" >
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Bands</x:String>
+                        <x:String>VideoGames</x:String>
+                        <x:String>Books</x:String>
+                        <x:String>Movies</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+            <CarouselView x:Name="carouselView"
+                      HeightRequest="450"
+                      WidthRequest="500"
+                      HorizontalOptions="CenterAndExpand">
+                <CarouselView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Horizontal" />
+                </CarouselView.ItemsLayout>
+                
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding ImageURL}" Aspect="AspectFill" />
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
